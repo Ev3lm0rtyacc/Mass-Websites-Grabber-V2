@@ -1,0 +1,10 @@
+\ Requirements \
+
+- latest version of Python 2.7.14: https://www.python.org/downloads/release/python-2714/
+- Python Modules : Requests, Colorama
+- Python Installation and Modules Tutorial Link :  t.me\Ev3l_m0rty_Channel
+
+\ Updates, resources & tools \
+
+- Telegram Channel Link : t.me\Ev3l_m0rty_Channel
+- Telegram Admin Channel Link :  t.me\Ev3l_m0rty_admin
